@@ -1,0 +1,6 @@
+{
+  "name": "Lentera Pustaka",
+  "description": "Aplikasi perpustakaan digital modern untuk peminjaman dan pengembalian buku daring, unggah koleksi PDF oleh admin, notifikasi pengingat otomatis batas waktu pengembalian, serta dashboard visualisasi data peminjaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
